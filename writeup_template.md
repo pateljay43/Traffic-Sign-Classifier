@@ -18,8 +18,8 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./examples/random_data_set.png "Visualization"
-[image2]: ./examples/bar_chart.jpg "Bar Chart"
-[image3]: ./examples/pre_processed.jpg "Pre Processed Random Images"
+[image2]: ./examples/bar_chart.png "Bar Chart"
+[image3]: ./examples/pre_processed.png "Pre Processed Random Images"
 [image4]: ./examples/00001.png "Traffic Sign 1"
 [image5]: ./examples/00093.png "Traffic Sign 2"
 [image6]: ./examples/00107.png "Traffic Sign 3"
